@@ -12,3 +12,4 @@ The phone must be powered on. Screen-off operation depends on Android version, b
 
 After installing, tap `Enable hands-free assistant` and choose Jarvis as the default digital assistant. This allows Android to invoke Jarvis from supported system surfaces and the lock screen. A third-party app cannot guarantee a custom `Hey Jarvis` wake phrase on every phone; true always-listening hotword detection requires device/OEM support or a dedicated hotword engine and may be restricted while the screen is locked.
 "# jarvis-website" 
+"# jarvis-ai" 
